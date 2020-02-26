@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Send Image</string>
+    <string name="txt_add_photo">Take a picture</string>
+    <string name="txt_add_photo_library">Library</string>
+    <string name="email">jorgesys12@gmail.com</string>
+    <!-- Provider -->
+    <string name="package_provider">.com.jorgesys.sendimage</string>
+</resources>
